@@ -1,0 +1,1 @@
+ng build --configuration production --base-href https://saulo-benquerer.github.io/ && angular-cli-ghpages --branch=main
