@@ -8,5 +8,8 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected title = 'saulo-benquerer.github.io';
+  // This is the main application component.
+  // It serves as the root component for the Angular application.
+  // The templateUrl points to the HTML file that defines the layout,
+  // and styleUrl points to the CSS file for styling.
 }
